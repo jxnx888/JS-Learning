@@ -1,4 +1,4 @@
-  // Falsy values: undefined, null, 0, '', NaN
+// Falsy values: undefined, null, 0, '', NaN
     // Truthy values: Not falsy values
 
     var height;

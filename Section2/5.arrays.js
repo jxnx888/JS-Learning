@@ -1,5 +1,10 @@
 // Arrays
 
+var array = new Array;
+array = [];
+
+var array = [0, 1, a, b, false]
+
 var names = ['John', 'Mark', 'Alan', 'Faye']; //Here, the order in array,we use 0 base, so the first is 0. second is 1.
 var years =new Array (1969, 1948, 1989, 1990);
 

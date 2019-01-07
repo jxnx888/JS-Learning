@@ -2,6 +2,7 @@
 // very simple simple example 
 // we can pass in argument into a function, we can return result from function with return key words
 // also function can call other functions.
+ 
 var now = 2018;
 
 function calculateAge(birthYear) { //function calculateAge(birthYear, x, y)
